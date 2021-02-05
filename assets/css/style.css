@@ -1,8 +1,26 @@
 body {
     background-color: black;
     color: blanchedalmond;
+    padding-top: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
-#name1, #name2, .button {
+.button {
+    display: flex;
+    justify-content: center;    
+    
+}
+button {
+    border: none;
+    color: Black;
+    background-color: purple;
+    font-weight: bold;
+    font-size: large;
+    padding: 15px;
+    border-radius: 50%;
+}
+#name1, #name2{
     display: flex;
     justify-content: center;
+    font-size: xx-large;
 }
