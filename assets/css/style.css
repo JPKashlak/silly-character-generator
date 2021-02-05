@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+    color: blanchedalmond;
+}
+#name1, #name2, .button {
+    display: flex;
+    justify-content: center;
+}
